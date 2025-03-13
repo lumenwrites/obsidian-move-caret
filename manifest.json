@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "move-caret",
+	"name": "Move Caret",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Adds a command to move the caret to the beginning of the line",
+	"author": "lumenwrites",
+	"authorUrl": "https://github.com/lumenwrites",
 	"isDesktopOnly": false
 }
